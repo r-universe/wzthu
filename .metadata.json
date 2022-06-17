@@ -1,0 +1,11 @@
+[
+  {
+    "package": "enrichTF"
+  },
+  {
+    "package": "esATAC"
+  },
+  {
+    "package": "pipeFrame"
+  }
+]
