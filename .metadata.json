@@ -4,5 +4,8 @@
   },
   {
     "package": "esATAC"
+  },
+  {
+    "package": "pipeFrame"
   }
 ]

@@ -13,3 +13,8 @@
 	url = https://github.com/wzthu/esatac
 	shallow = true
 	registered = true
+[submodule "pipeFrame"]
+	path = pipeFrame
+	url = https://github.com/wzthu/pipeframe
+	shallow = true
+	registered = true
