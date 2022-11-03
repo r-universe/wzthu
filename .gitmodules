@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "enrichTF"]
-	path = enrichTF
-	url = https://github.com/wzthu/enrichtf
-	shallow = true
-	registered = true
 [submodule "esATAC"]
 	path = esATAC
 	url = https://github.com/wzthu/esatac
@@ -16,5 +11,10 @@
 [submodule "pipeFrame"]
 	path = pipeFrame
 	url = https://github.com/wzthu/pipeframe
+	shallow = true
+	registered = true
+[submodule "enrichTF"]
+	path = enrichTF
+	url = https://github.com/wzthu/enrichtf
 	shallow = true
 	registered = true
